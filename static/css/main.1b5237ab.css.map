@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1b5237ab.css","mappings":"AAAA,OACI,kBACJ,CAEA,aACI,uBACJ","sources":["index.css"],"sourcesContent":[".badge {\r\n    left : 90% !important;\r\n}\r\n\r\n.card-footer{\r\n    color: rgb(139, 10, 186) !important;\r\n}\r\n"],"names":[],"sourceRoot":""}
